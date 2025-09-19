@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"S:/JonathanBaruch/ChungusInteractive/SandsOfSet/Content/Lasers(LIghtPuzzle)/Blueprints/A_Target.uasset",
+				"S:/JonathanBaruch/ChungusInteractive/SandsOfSet/Content/Lasers(LIghtPuzzle)/Blueprints/A_Door.uasset",
+				"S:/JonathanBaruch/ChungusInteractive/SandsOfSet/Content/Lasers(LIghtPuzzle)/Blueprints/A_DoorTEMP.uasset",
+				"S:/JonathanBaruch/ChungusInteractive/SandsOfSet/Content/LaserMap.umap",
 				"C:/Users/Jonathan/Documents/GitHub/ChungusInteractive/SandsOfSet/Content/Lasers(LIghtPuzzle)/Blueprints/BuildingBlocks/AC_Handler.uasset",
 				"C:/Users/Jonathan/Documents/GitHub/ChungusInteractive/SandsOfSet/Content/Lasers(LIghtPuzzle)/Blueprints/BuildingBlocks/AC_External.uasset",
 				"C:/Users/Jonathan/Documents/GitHub/ChungusInteractive/SandsOfSet/Content/Lasers(LIghtPuzzle)/Blueprints/A_Button.uasset",
