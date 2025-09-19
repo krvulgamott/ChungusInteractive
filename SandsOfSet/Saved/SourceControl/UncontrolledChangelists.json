@@ -10,7 +10,9 @@
 				"C:/Users/jbaruch/Documents/GitHub/ChungusInteractive/SandsOfSet/Content/LaserMap.umap",
 				"C:/Users/jbaruch/Documents/GitHub/ChungusInteractive/SandsOfSet/Content/Lasers(LIghtPuzzle)/Blueprints/BuildingBlocks/AC_Bounce.uasset",
 				"C:/Users/jbaruch/Documents/GitHub/ChungusInteractive/SandsOfSet/Content/Lasers(LIghtPuzzle)/Blueprints/A_BreakCube.uasset",
-				"C:/Users/jbaruch/Documents/GitHub/ChungusInteractive/SandsOfSet/Content/Lasers(LIghtPuzzle)/Blueprints/A_Merge.uasset"
+				"C:/Users/jbaruch/Documents/GitHub/ChungusInteractive/SandsOfSet/Content/Lasers(LIghtPuzzle)/Blueprints/A_Merge.uasset",
+				"C:/Users/jbaruch/Documents/GitHub/ChungusInteractive/SandsOfSet/Content/Lasers(LIghtPuzzle)/Blueprints/BuildingBlocks/BPI_Lasers.uasset",
+				"C:/Users/jbaruch/Documents/GitHub/ChungusInteractive/SandsOfSet/Content/Lasers(LIghtPuzzle)/Blueprints/BuildingBlocks/AC_External.uasset"
 			]
 		}
 	]
