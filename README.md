@@ -7,8 +7,9 @@
 ## Team Roles
 
 **Jonathan Baruch** (Programming Crew)  
-- Mechanics and gameplay programming  
-- Assists Design and Art teams as needed
+- Mechanics and Gameplay programming  
+- Assists Design team as needed
+- Assists Art team as needed
 
 **Keegan Vulgamott** (Programming Crew)  
 - Gameplay and AI programming  
