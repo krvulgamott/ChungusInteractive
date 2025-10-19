@@ -1,2 +1,45 @@
-[1012/094016.567:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 23
-[1012/094159.758:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1019/015346.096:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015346.756:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015351.101:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015351.768:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015354.030:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1019/015356.108:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015356.789:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015401.119:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015401.808:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015406.132:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015406.832:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015411.147:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015411.847:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015416.152:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015416.869:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015421.161:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015421.887:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015426.169:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015426.903:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015431.181:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015431.924:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015436.186:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015436.943:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015441.191:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015441.953:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015446.201:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015446.967:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015451.212:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015451.983:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015456.226:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015457.003:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015501.238:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015502.025:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015506.245:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015507.033:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015511.249:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015512.044:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015516.255:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015517.065:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015521.259:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015522.077:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015526.265:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015527.093:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015531.270:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1019/015532.109:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
