@@ -316,7 +316,9 @@
 /game/actors/collectables/ability_truesight
 /game/actors/collectables/item_watertotem
 /game/audio/cue_background-music
+/game/audio/cue_title-music
 /game/audio/music/sands_of_set_background_music
+/game/audio/music/sos-title_music
 /game/audio/sfx/stonewalk_short
 /game/bpi_interactable
 /game/characters/mannequins/anims/unarmed/abp_unarmed
@@ -427,6 +429,7 @@
 /game/materials/m_gold
 /game/materials/m_pit
 /game/materials/m_stand
+/game/materials/m_tempfloor
 /game/materials/mat_spriteparticle
 /game/materials/mat_spriteparticle_blood
 /game/materials/mat_spriteparticle_sandypoof
@@ -435,6 +438,8 @@
 /game/materials/temp_green
 /game/materials/temp_red
 /game/materials/temp_water
+/game/materials/textures/m_sandfloor
+/game/materials/textures/r
 /game/models/_generated/owner/stairs_589616e3
 /game/models/_generated/owner/stairs_b9cb74a3
 /game/models/_generated/owner/stairs_bc8f1081
@@ -446,8 +451,8 @@
 /game/models/miles/sandsofsetalter_4
 /game/models/miles/sandsofsetalter_5
 /game/models/miles/sandsofsetanhk
+/game/models/miles/sandsofsetbrazier
 /game/models/miles/sandsofsetdoorframe_1
-/game/models/miles/sandsofsetdoorframe_2
 /game/models/miles/sandsofsetpillar_1
 /game/models/miles/sandsofsetpillar_2
 /game/models/miles/sandsofsetsmallalter
@@ -466,16 +471,11 @@
 /game/models/miles/texture/anker/sandsofsetanhk_initialshadinggroup_normal
 /game/models/miles/texture/anker/sandsofsetanhk_initialshadinggroup_roughness
 /game/models/miles/texture/doorframes/m_doorframe1
-/game/models/miles/texture/doorframes/m_doorframe2
 /game/models/miles/texture/doorframes/sandsofsetdoorframe_1_initialshadinggroup_basecolor
 /game/models/miles/texture/doorframes/sandsofsetdoorframe_1_initialshadinggroup_height
 /game/models/miles/texture/doorframes/sandsofsetdoorframe_1_initialshadinggroup_metallic
 /game/models/miles/texture/doorframes/sandsofsetdoorframe_1_initialshadinggroup_normal
 /game/models/miles/texture/doorframes/sandsofsetdoorframe_1_initialshadinggroup_roughness
-/game/models/miles/texture/doorframes/sandsofsetdoorframe_2_initialshadinggroup_basecolor
-/game/models/miles/texture/doorframes/sandsofsetdoorframe_2_initialshadinggroup_metallic
-/game/models/miles/texture/doorframes/sandsofsetdoorframe_2_initialshadinggroup_normal
-/game/models/miles/texture/doorframes/sandsofsetdoorframe_2_initialshadinggroup_roughness
 /game/models/miles/texture/pillers/m_pillar1
 /game/models/miles/texture/pillers/m_pillar2
 /game/models/miles/texture/pillers/sandsofsetpillar_1_initialshadinggroup_basecolor
@@ -506,7 +506,6 @@
 /game/models/miles/texture/wall/sandsofsetwall_3_initialshadinggroup_roughness
 /game/models/pillarisaiah
 /game/particlesystems/nia_sandyfootstep
-/game/savepointsystem/bp_checkpoint
 /game/savepointsystem/bp_emery
 /game/savepointsystem/savegameobject
 /game/testingmap1

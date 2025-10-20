@@ -8,12 +8,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "DFDB1C01036CAE195814F94578BA89EE0744F0B2",
-			"Assets": [
-				"/Game/Materials/Temp_Red"
-			]
-		},
-		{
 			"ShaderMapHash": "3178710150B775A4BB6A436FB5C433FFC99159B2",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
@@ -35,6 +29,12 @@
 			"ShaderMapHash": "87594103B154375B1DBBEF3BE79E053738FBE6B1",
 			"Assets": [
 				"/Game/Materials/M_Gold"
+			]
+		},
+		{
+			"ShaderMapHash": "C9B98B05C1A2D4201EB6AE8F500EA4C65EA3A550",
+			"Assets": [
+				"/Game/Materials/Temp_Red"
 			]
 		},
 		{
@@ -65,6 +65,12 @@
 			"ShaderMapHash": "BA16850BB63CD65C96ECF31D6C59DF5BDCE2246A",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "F0D4D70C799333468CD0C5A64DAA3524B1C87ACD",
+			"Assets": [
+				"/Game/Materials/Textures/M_Sandfloor"
 			]
 		},
 		{
@@ -356,7 +362,8 @@
 		{
 			"ShaderMapHash": "4DF112732DF43210BDA2BA0AEC2162E540759C22",
 			"Assets": [
-				"/Engine/VREditor/TransformGizmo/Xray"
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/Materials/M_TempFloor"
 			]
 		},
 		{
@@ -578,7 +585,6 @@
 			"ShaderMapHash": "F88795C22029E8F224199CBA4D8D8A43CD65EC41",
 			"Assets": [
 				"/Game/Models/Miles/Texture/Anker/M_Anhk",
-				"/Game/Models/Miles/Texture/DoorFrames/M_DoorFrame2",
 				"/Game/Models/Miles/Texture/Pillers/M_Pillar1",
 				"/Game/Models/Miles/Texture/Pillers/M_Pillar2"
 			]

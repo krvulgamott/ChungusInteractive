@@ -222,6 +222,7 @@
 			"ShaderMapHash": "CCD5374E0BA43C121A6C458F28B70E1B39F49878",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/Materials/M_TempFloor",
 				"/Game/Models/Miles/initialShadingGroup"
 			]
 		},
@@ -494,7 +495,6 @@
 			"ShaderMapHash": "9F47B8A7DECBF7F6C8EB48FF0E8BCFBD2A9F9D4F",
 			"Assets": [
 				"/Game/Models/Miles/Texture/Anker/M_Anhk",
-				"/Game/Models/Miles/Texture/DoorFrames/M_DoorFrame2",
 				"/Game/Models/Miles/Texture/Pillers/M_Pillar1",
 				"/Game/Models/Miles/Texture/Pillers/M_Pillar2"
 			]
@@ -741,6 +741,12 @@
 			"ShaderMapHash": "7510ABED71DEAA03FA32B19DFFD076277DE5A0EE",
 			"Assets": [
 				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "093623F381B5D5A4D7E2932A0CF526755A28E046",
+			"Assets": [
+				"/Game/Materials/Textures/M_Sandfloor"
 			]
 		},
 		{
