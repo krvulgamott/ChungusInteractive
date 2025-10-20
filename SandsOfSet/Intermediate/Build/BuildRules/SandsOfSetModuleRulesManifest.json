@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\keega\\OneDrive\\Desktop\\GitHub\\ChungusInteractive\\SandsOfSet\\Intermediate\\Source\\SandsOfSet.Build.cs",
+		"C:\\Users\\keega\\OneDrive\\Desktop\\GitHub\\ChungusInteractive\\SandsOfSet\\Intermediate\\Source\\SandsOfSet.Target.cs",
+		"C:\\Users\\keega\\OneDrive\\Desktop\\GitHub\\ChungusInteractive\\SandsOfSet\\Intermediate\\Source\\SandsOfSetClient.Target.cs",
+		"C:\\Users\\keega\\OneDrive\\Desktop\\GitHub\\ChungusInteractive\\SandsOfSet\\Intermediate\\Source\\SandsOfSetEditor.Target.cs",
+		"C:\\Users\\keega\\OneDrive\\Desktop\\GitHub\\ChungusInteractive\\SandsOfSet\\Intermediate\\Source\\SandsOfSetServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
