@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\keega\\onedrive\\desktop\\github\\chungusinteractive\\sandsofset\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\sandsofset\\module.sandsofset.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\keega\\onedrive\\desktop\\github\\chungusinteractive\\sandsofset\\intermediate\\build\\win64\\x64\\sandsofset\\shipping\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\keega\\onedrive\\desktop\\github\\chungusinteractive\\sandsofset\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\sandsofset\\definitions.sandsofset.h",
+            "c:\\users\\keega\\onedrive\\desktop\\github\\chungusinteractive\\sandsofset\\intermediate\\source\\sandsofset.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
