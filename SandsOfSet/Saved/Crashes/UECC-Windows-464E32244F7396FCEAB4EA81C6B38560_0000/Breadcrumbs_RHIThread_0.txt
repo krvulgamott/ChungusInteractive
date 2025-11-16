@@ -1,0 +1,4 @@
+Breadcrumbs 'RHIThread'
+ - UpdateDistanceFieldAtlas
+ - RenderGraphExecute - /ViewFamilies
+ - SceneRender - ViewFamilies
