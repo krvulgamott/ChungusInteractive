@@ -1,7 +1,7 @@
 SandsOfSet/Binaries/Win64/D3D12/x64/D3D12Core.dll	2025-09-09T16:45:33.852Z
 SandsOfSet/Binaries/Win64/D3D12/x64/d3d12SDKLayers.dll	2025-09-09T16:45:33.982Z
 SandsOfSet/Binaries/Win64/DML/x64/DirectML.dll	2025-09-09T16:50:46.199Z
-SandsOfSet/Binaries/Win64/SandsOfSet-Win64-Shipping.exe	2025-10-20T11:27:04.950Z
+SandsOfSet/Binaries/Win64/SandsOfSet-Win64-Shipping.exe	2025-11-17T12:56:01.880Z
 SandsOfSet/Binaries/Win64/tbb12.dll	2025-09-09T16:50:47.662Z
 SandsOfSet/Binaries/Win64/tbbmalloc.dll	2025-09-09T16:50:47.662Z
 Engine/Extras/Redist/en-us/vc_redist.x64.exe	2025-09-09T16:47:23.202Z
@@ -16,5 +16,5 @@ Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2025-09-09T
 Engine/Content/Renderer/TessellationTable.bin	2025-09-09T16:46:35.004Z
 Engine/Content/Slate/Cursor/invisible.cur	2025-09-09T16:46:35.063Z
 Engine/Plugins/NNE/NNERuntimeORT/Binaries/ThirdParty/Onnxruntime/Win64/onnxruntime.dll	2025-09-09T16:49:40.989Z
-Engine/Config/StagedBuild_SandsOfSet.ini	2025-10-20T11:36:07.784Z
-SandsOfSet.exe	2025-10-20T11:36:07.777Z
+Engine/Config/StagedBuild_SandsOfSet.ini	2025-11-17T13:03:52.250Z
+SandsOfSet.exe	2025-11-17T13:03:52.245Z
