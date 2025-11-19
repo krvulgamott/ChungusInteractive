@@ -2,12 +2,6 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
-			"ShaderMapHash": "D19E59001C11C8F23EC2E4A9EEF3FD120CB6B503",
-			"Assets": [
-				"/Game/Materials/M_Pit"
-			]
-		},
-		{
 			"ShaderMapHash": "0C9CC701F1EC34FB76E8A282C530EC9362EC757A",
 			"Assets": [
 				"/Engine/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial"
@@ -74,6 +68,30 @@
 			]
 		},
 		{
+			"ShaderMapHash": "760E24130DE7FCEA700A4339C28EC09ED104919E",
+			"Assets": [
+				"/Game/Models/Miles/2ndWave/Materials/Chair/Chair",
+				"/Game/Models/Miles/2ndWave/Materials/JumpingPlatform1/JP1",
+				"/Game/Models/Miles/2ndWave/Materials/JumpingPlatform2/JP2",
+				"/Game/Models/Miles/2ndWave/Materials/MortarANDPestle/MAP",
+				"/Game/Models/Miles/2ndWave/Materials/Scroll1/Scroll1",
+				"/Game/Models/Miles/2ndWave/Materials/Scroll2/Scroll2",
+				"/Game/Models/Miles/2ndWave/Materials/Stool/Stool",
+				"/Game/Models/Miles/2ndWave/Materials/Table/Table",
+				"/Game/Models/Miles/2ndWave/Materials/Vase1/Vase1",
+				"/Game/Models/Miles/2ndWave/Materials/Vase2/Vase2",
+				"/Game/Models/Miles/2ndWave/Materials/Vase3/Vase3",
+				"/Game/Models/Miles/2ndWave/Materials/WallTorch/WallT",
+				"/Game/Models/Miles/Texture/Anker/M_Anhk",
+				"/Game/Models/Miles/Texture/DoorFrames/M_DoorFrame1",
+				"/Game/Models/Miles/Texture/Pillers/M_Pillar1",
+				"/Game/Models/Miles/Texture/Pillers/M_Pillar2",
+				"/Game/Models/Miles/Texture/Wall/M_Wall1",
+				"/Game/Models/Miles/Texture/Wall/M_Wall2",
+				"/Game/Models/Miles/Texture/Wall/M_Wall3"
+			]
+		},
+		{
 			"ShaderMapHash": "169EA413C9087915A94EF27D45F03E41DF14E79C",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_ClearCoat"
@@ -99,6 +117,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "ABD85B2128C51A5822D3220FA457FE4CE1A00FEC",
+			"Assets": [
+				"/Engine/EditorShellMaterials/MI_BaseFlat"
+			]
+		},
+		{
 			"ShaderMapHash": "2C0645264EFCA89DC45B478326292E4AF85ABE7D",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Blend_DS"
@@ -111,6 +135,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "7733F4289FCC77B2652FD49FB27DF2319EADB95E",
+			"Assets": [
+				"/Game/Vefects/Free_Fire/Shared/Materials/MI_VFX_FireQuad_02"
+			]
+		},
+		{
+			"ShaderMapHash": "16F9D929CFD1821ADC4E3018380EDD4DCD163D83",
+			"Assets": [
+				"/Engine/EditorShellMaterials/M_ShellMaster"
+			]
+		},
+		{
 			"ShaderMapHash": "217AAA2A3A51D441CA7D1A8F8C7CF25E97DCC90A",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
@@ -120,6 +156,12 @@
 			"ShaderMapHash": "9D5F332BACE6620641808A71151F746C10485972",
 			"Assets": [
 				"/Game/Materials/Temp_Water"
+			]
+		},
+		{
+			"ShaderMapHash": "08DC162DDF766DA79CB0CC02F8456DFD5E5B04BC",
+			"Assets": [
+				"/Game/Materials/M_CamIgnore"
 			]
 		},
 		{
@@ -183,9 +225,25 @@
 			]
 		},
 		{
+			"ShaderMapHash": "0147413F674C76D2E98C6599B458D2AAE3761AC4",
+			"Assets": [
+				"/Game/LevelOnePuzzles/PressurePlate/openPBR_shader31",
+				"/Game/Models/Miles/2ndWave/openPBR_shader28",
+				"/Game/Models/Miles/2ndWave/openPBR_shader29",
+				"/Game/Models/Miles/2ndWave/openPBR_shader30",
+				"/Game/Models/Miles/2ndWave/openPBR_shader35"
+			]
+		},
+		{
 			"ShaderMapHash": "08B635416D805F20DCDB938B10F1B0BA3EE1E76B",
 			"Assets": [
 				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8A527345B1B86F576085FC6D42135E434AC5F8D6",
+			"Assets": [
+				"/Game/Vefects/Free_Fire/Shared/Materials/M_VFX_HeatDistortion"
 			]
 		},
 		{
@@ -222,6 +280,7 @@
 			"ShaderMapHash": "CCD5374E0BA43C121A6C458F28B70E1B39F49878",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/Materials/M_TempFloor",
 				"/Game/Models/Miles/initialShadingGroup"
 			]
 		},
@@ -271,6 +330,12 @@
 			"ShaderMapHash": "4EFF5364D1CEE9F6170DBEB8CD26BA2CC9A43C5C",
 			"Assets": [
 				"/Engine/EditorLandscapeResources/LandscapeLayerUsageMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D43A4865D4B878D4FCDE6A0E9DE51E7AB72A2E75",
+			"Assets": [
+				"/Game/Vefects/Free_Fire/Shared/Materials/M_VFX_Erosion"
 			]
 		},
 		{
@@ -365,12 +430,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C46EA7819E09C0C1FE4CCCC039A007114F5BB40B",
-			"Assets": [
-				"/Game/Materials/M_Stand"
-			]
-		},
-		{
 			"ShaderMapHash": "1D7B8F83398BB5D512869A0DD96553A8600BD3C2",
 			"Assets": [
 				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth"
@@ -432,6 +491,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "2DCA5497233D5CE2FD0AD1550C08ADBF7E2F8BC4",
+			"Assets": [
+				"/Game/Models/Miles/2ndWave/openPBR_shader31"
+			]
+		},
+		{
 			"ShaderMapHash": "908A12982B4CFDD418D3A42DFC34A867B84CA933",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
@@ -458,11 +523,7 @@
 		{
 			"ShaderMapHash": "2B197D9D937CE8C2FC314888B23E9CCD133D1F99",
 			"Assets": [
-				"/Game/Models/Miles/Texture/Alters/M_Alter",
-				"/Game/Models/Miles/Texture/DoorFrames/M_DoorFrame1",
-				"/Game/Models/Miles/Texture/Wall/M_Wall1",
-				"/Game/Models/Miles/Texture/Wall/M_Wall2",
-				"/Game/Models/Miles/Texture/Wall/M_Wall3"
+				"/Game/Models/Miles/Texture/Alters/M_Alter"
 			]
 		},
 		{
@@ -474,7 +535,6 @@
 		{
 			"ShaderMapHash": "8162F59EFE908B41191A8CD1E400331EFF189AC4",
 			"Assets": [
-				"/Engine/EditorLandscapeResources/MaskBrushMaterial",
 				"/Engine/EditorLandscapeResources/MaskBrushMaterial_MaskedRegion"
 			]
 		},
@@ -491,12 +551,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "9F47B8A7DECBF7F6C8EB48FF0E8BCFBD2A9F9D4F",
+			"ShaderMapHash": "6ADA0DA80C805FA623049C28460CEAF6A85069BF",
 			"Assets": [
-				"/Game/Models/Miles/Texture/Anker/M_Anhk",
-				"/Game/Models/Miles/Texture/DoorFrames/M_DoorFrame2",
-				"/Game/Models/Miles/Texture/Pillers/M_Pillar1",
-				"/Game/Models/Miles/Texture/Pillers/M_Pillar2"
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
 			]
 		},
 		{
@@ -545,12 +602,6 @@
 			"ShaderMapHash": "AE234BBB5CC9B46BEDECA6C854177C318BBFDCA0",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
-			]
-		},
-		{
-			"ShaderMapHash": "3688D0BFF7F7689357FD74E74C0D879CE96C6290",
-			"Assets": [
-				"/Game/Materials/M_CamIgnore"
 			]
 		},
 		{
@@ -620,6 +671,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "996A11D740A2CB2BD124A9FB6C51E10A39CA729E",
+			"Assets": [
+				"/Game/Materials/NewMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "546776D93FAA41406AEF81D132662CDEF84203A6",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
@@ -672,69 +729,18 @@
 			"ShaderMapHash": "210D4AEB63245E03CCBD000101F69D040AA4CCAB",
 			"Assets": [
 				"/Game/TestingMap1/_Generated_/0MHEXC75USBHVAGPTOMLLHDOO",
-				"/Game/TestingMap1/_Generated_/15DDUW0CMO54QH0VP7MHA6RTL",
-				"/Game/TestingMap1/_Generated_/1C7TX8I0HHWVZ6FUBXANKPG6T",
 				"/Game/TestingMap1/_Generated_/1KG0PP2HINEO5S9DL6JKGPF0I",
-				"/Game/TestingMap1/_Generated_/1OLHE3R53A8Y3O2Q6NFNZWKW3",
-				"/Game/TestingMap1/_Generated_/1QY7UBZ9GSE16DAH5IXF5C8SZ",
 				"/Game/TestingMap1/_Generated_/26DCMISNUBTYSVNW2P5TYW1KL",
-				"/Game/TestingMap1/_Generated_/2TS7MD05S9LOUOWA24086FSAP",
 				"/Game/TestingMap1/_Generated_/2WS98478123C0J1IWC1SPV7UN",
-				"/Game/TestingMap1/_Generated_/32N0ISHXN9K7Z00S38EKW4F69",
-				"/Game/TestingMap1/_Generated_/35QJPLYZKGTOS540LK8ZS690B",
-				"/Game/TestingMap1/_Generated_/364C702PSYM2LGVQ091ZCSI01",
 				"/Game/TestingMap1/_Generated_/45MAVOWR1BGI0URTG4FBIKO09",
-				"/Game/TestingMap1/_Generated_/4JTRK37LLN1DMQGCEM3J66GMK",
-				"/Game/TestingMap1/_Generated_/4NG4ONGD34EEMO299G2A27E1N",
-				"/Game/TestingMap1/_Generated_/4OUP1XLDFJS85HPC8MDBL9W2E",
-				"/Game/TestingMap1/_Generated_/4VMOSEUJ7RGHPFCHMDXUFT7DE",
 				"/Game/TestingMap1/_Generated_/4YXQVGN917B16XH6WZGU2XFC5",
-				"/Game/TestingMap1/_Generated_/5YMGWZ1VVQ3HYRQ3XQ9LE1QTQ",
-				"/Game/TestingMap1/_Generated_/65Q8GLPAHLE8DFGP7YDHTHUPC",
-				"/Game/TestingMap1/_Generated_/6APNWIH4LFBGZX9K1T10191LS",
-				"/Game/TestingMap1/_Generated_/6AYJK9R7T8UWFJ3DNFQ7VRO4A",
-				"/Game/TestingMap1/_Generated_/6HFJBGHFZ4XSJK4AX713K2K5E",
-				"/Game/TestingMap1/_Generated_/6PGNYLAKE858LA3JR64CJD79W",
-				"/Game/TestingMap1/_Generated_/6RB4FZX6DBN3WH6IOVBRC5046",
-				"/Game/TestingMap1/_Generated_/6ZXUQD7RONZA6D356N47V3YQH",
-				"/Game/TestingMap1/_Generated_/7CYYAAO5NPPYZH2GCA9ND0CW2",
-				"/Game/TestingMap1/_Generated_/7DR16B2GM635FM0N6IOFN82G9",
-				"/Game/TestingMap1/_Generated_/7JW3MEO9WVKV5PAVQNQV1Q0R9",
 				"/Game/TestingMap1/_Generated_/7V42ALKLOEPQAHHI255S901QM",
 				"/Game/TestingMap1/_Generated_/89BQZB2K8Y7OVE4E1GJZLMGQO",
-				"/Game/TestingMap1/_Generated_/8AZ0L1TBL3JAWSQX5JHCDDR3T",
-				"/Game/TestingMap1/_Generated_/8G04LF4FC7DVUFKF0A0OZYMXV",
-				"/Game/TestingMap1/_Generated_/8M9FNY43PEN5IHS4MQYBITO69",
 				"/Game/TestingMap1/_Generated_/8PNY5X0DH6SZUXCLD4GJRAUS8",
 				"/Game/TestingMap1/_Generated_/8VC12AOEQK84Q4VBME9MZ1V6H",
-				"/Game/TestingMap1/_Generated_/8VPGHO6SG4PLVSWPNDHSIVKID",
-				"/Game/TestingMap1/_Generated_/8XV82CHSO0SO9R27Q1H8LKY1Y",
-				"/Game/TestingMap1/_Generated_/9C41IEPVW11O7SNXRVUJ69MWN",
-				"/Game/TestingMap1/_Generated_/9I8BX9I6ROP0T1KWZ22PWZ151",
-				"/Game/TestingMap1/_Generated_/9W36847LP3CDHH0CXQOLK7E62",
-				"/Game/TestingMap1/_Generated_/AALH4T6NINUF1BE07B2PC4A2Q",
-				"/Game/TestingMap1/_Generated_/AM6Y10YO2UBBT0ZJHTX0OPEFW",
-				"/Game/TestingMap1/_Generated_/AUQRCTNMO53LWNELXBO7YHAOY",
-				"/Game/TestingMap1/_Generated_/AVVS5I77XI9RGVDHMP8S6SPD2",
 				"/Game/TestingMap1/_Generated_/AZSTBVCYP1NSCRN0COKDR96WZ",
-				"/Game/TestingMap1/_Generated_/B0MELSJL6DEP761ICBTHN1BDP",
-				"/Game/TestingMap1/_Generated_/B5K38H11BOMABRVFO19KRO9EQ",
-				"/Game/TestingMap1/_Generated_/BJ2HSAYWA8OIF93JTOXHOIFJP",
-				"/Game/TestingMap1/_Generated_/C0TZL0EHIWIOSOS6VHAXHMUVP",
-				"/Game/TestingMap1/_Generated_/C76S8LFVTNOIRMHCWNXPYKWR3",
-				"/Game/TestingMap1/_Generated_/CHSTWXJ3ADMHXAJY2HH3AXB96",
-				"/Game/TestingMap1/_Generated_/DD3BIEEHYBWDZ4RXRSN4N6F25",
 				"/Game/TestingMap1/_Generated_/DII8ZGHP7VA75HR575K7PQKCD",
-				"/Game/TestingMap1/_Generated_/DJWI98S9AOM3LRGFNFLALHHSO",
-				"/Game/TestingMap1/_Generated_/DLU3VA8DW8U6IBC7FBSGDK7OH",
-				"/Game/TestingMap1/_Generated_/DUOLW7AOSS2KV8AES4DSJY0TD",
-				"/Game/TestingMap1/_Generated_/DVPPZ492J08K422EWIJZSEZ5V",
-				"/Game/TestingMap1/_Generated_/DW57U6A1PISXPT9TG7I2TXMXY",
-				"/Game/TestingMap1/_Generated_/E3UAMQ0S4UZ6XB2TI4K7SWP7Q",
-				"/Game/TestingMap1/_Generated_/E719NZAM4FXIV0E9FKI5J8URD",
-				"/Game/TestingMap1/_Generated_/ED6AP5I6EE70MR4BQ7CB11JQ6",
-				"/Game/TestingMap1/_Generated_/EWU683H83XKPI18AKJAOGM8ZK",
-				"/Game/TestingMap1/_Generated_/F2E19CUJXWY9GQU9Y3MHNE8T8"
+				"/Game/TestingMap1/_Generated_/EWU683H83XKPI18AKJAOGM8ZK"
 			]
 		},
 		{
@@ -744,9 +750,34 @@
 			]
 		},
 		{
+			"ShaderMapHash": "093623F381B5D5A4D7E2932A0CF526755A28E046",
+			"Assets": [
+				"/Game/Materials/Textures/M_Sandfloor"
+			]
+		},
+		{
 			"ShaderMapHash": "8C46CAF5AD54D241DF872B1BB6111C361D398374",
 			"Assets": [
 				"/Game/Materials/Temp_Red"
+			]
+		},
+		{
+			"ShaderMapHash": "78F881F7DF9F735B8EF632B427AC23B450E04B52",
+			"Assets": [
+				"/Game/Cutscene/Lvl1/End_Cutscene_Images_Storyboard/image_3_Mat",
+				"/Game/Cutscene/Lvl1/End_Cutscene_Images_Storyboard/image_4_Mat",
+				"/Game/Cutscene/Lvl1/End_Cutscene_Images_Storyboard/image_Mat",
+				"/Game/Cutscene/Lvl2/End_Cutscene_Images__Storyboard_/image_2_Mat",
+				"/Game/Cutscene/Lvl2/End_Cutscene_Images__Storyboard_/image_3_Mat",
+				"/Game/Cutscene/Lvl2/End_Cutscene_Images__Storyboard_/image_4_Mat",
+				"/Game/Cutscene/Lvl2/End_Cutscene_Images__Storyboard_/image_Mat",
+				"/Game/Cutscene/Lvl3/End_Cutscene_Images__Storyboard_/image_2_Mat",
+				"/Game/Cutscene/Lvl3/End_Cutscene_Images__Storyboard_/image_3_Mat",
+				"/Game/Cutscene/Lvl3/End_Cutscene_Images__Storyboard_/image_Mat",
+				"/Game/Cutscene/Lvl4/End_Cutscene_Images__Storyboard_/image_2_Mat",
+				"/Game/Cutscene/Lvl4/End_Cutscene_Images__Storyboard_/image_3_Mat",
+				"/Game/Cutscene/Lvl4/End_Cutscene_Images__Storyboard_/image_4_Mat",
+				"/Game/Cutscene/Lvl4/End_Cutscene_Images__Storyboard_/image_Mat"
 			]
 		},
 		{
@@ -777,6 +808,16 @@
 			"ShaderMapHash": "463D67FEE43A5B90D74313E4BC897C9615B324C3",
 			"Assets": [
 				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "49082AFF44D812EAD0E4CBEA7CCB4BBCD7D11639",
+			"Assets": [
+				"/Game/Cutscene/Lvl1/End_Cutscene_Images_Storyboard/image_2_Mat",
+				"/Game/Materials/Textures/Sandfloor_Mat",
+				"/Game/Models/Miles/2ndWave/Textures2ndwave/CanopicJar/SandsOfSetCanopicJarFinal_openPBR_shader9_BaseColor_Mat",
+				"/Game/Models/Miles/Texture/Pillers/SandsofSetPillar_1_initialShadingGroup_Metallic_Mat",
+				"/Game/Models/Miles/Texture/Pillers/SandsofSetPillar_2_initialShadingGroup_BaseColor_Mat"
 			]
 		}
 	]
