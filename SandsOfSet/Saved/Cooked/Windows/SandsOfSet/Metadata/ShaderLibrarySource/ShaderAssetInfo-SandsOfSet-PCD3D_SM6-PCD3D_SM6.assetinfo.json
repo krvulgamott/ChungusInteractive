@@ -14,6 +14,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "1BC6B8011B8CF1359383B6C5751AAAF83FAC2D28",
+			"Assets": [
+				"/Game/Lvl_ThirdTemple"
+			]
+		},
+		{
 			"ShaderMapHash": "E20D1B02437AFE3AFE903CA091233249719E5B38",
 			"Assets": [
 				"/Game/Materials/mat_SpriteParticle"
@@ -146,13 +152,17 @@
 				"/Game/TestingMap1/_Generated_/15DDUW0CMO54QH0VP7MHA6RTL",
 				"/Game/TestingMap1/_Generated_/1C7TX8I0HHWVZ6FUBXANKPG6T",
 				"/Game/TestingMap1/_Generated_/1KG0PP2HINEO5S9DL6JKGPF0I",
+				"/Game/TestingMap1/_Generated_/1OLHE3R53A8Y3O2Q6NFNZWKW3",
+				"/Game/TestingMap1/_Generated_/1QY7UBZ9GSE16DAH5IXF5C8SZ",
 				"/Game/TestingMap1/_Generated_/26DCMISNUBTYSVNW2P5TYW1KL",
 				"/Game/TestingMap1/_Generated_/2TS7MD05S9LOUOWA24086FSAP",
 				"/Game/TestingMap1/_Generated_/2WS98478123C0J1IWC1SPV7UN",
 				"/Game/TestingMap1/_Generated_/32N0ISHXN9K7Z00S38EKW4F69",
 				"/Game/TestingMap1/_Generated_/35QJPLYZKGTOS540LK8ZS690B",
 				"/Game/TestingMap1/_Generated_/364C702PSYM2LGVQ091ZCSI01",
+				"/Game/TestingMap1/_Generated_/45MAVOWR1BGI0URTG4FBIKO09",
 				"/Game/TestingMap1/_Generated_/4JTRK37LLN1DMQGCEM3J66GMK",
+				"/Game/TestingMap1/_Generated_/4NG4ONGD34EEMO299G2A27E1N",
 				"/Game/TestingMap1/_Generated_/4OUP1XLDFJS85HPC8MDBL9W2E",
 				"/Game/TestingMap1/_Generated_/4VMOSEUJ7RGHPFCHMDXUFT7DE",
 				"/Game/TestingMap1/_Generated_/4YXQVGN917B16XH6WZGU2XFC5",
@@ -162,9 +172,11 @@
 				"/Game/TestingMap1/_Generated_/6AYJK9R7T8UWFJ3DNFQ7VRO4A",
 				"/Game/TestingMap1/_Generated_/6HFJBGHFZ4XSJK4AX713K2K5E",
 				"/Game/TestingMap1/_Generated_/6PGNYLAKE858LA3JR64CJD79W",
+				"/Game/TestingMap1/_Generated_/6RB4FZX6DBN3WH6IOVBRC5046",
 				"/Game/TestingMap1/_Generated_/6ZXUQD7RONZA6D356N47V3YQH",
 				"/Game/TestingMap1/_Generated_/7CYYAAO5NPPYZH2GCA9ND0CW2",
 				"/Game/TestingMap1/_Generated_/7DR16B2GM635FM0N6IOFN82G9",
+				"/Game/TestingMap1/_Generated_/7JW3MEO9WVKV5PAVQNQV1Q0R9",
 				"/Game/TestingMap1/_Generated_/7V42ALKLOEPQAHHI255S901QM",
 				"/Game/TestingMap1/_Generated_/89BQZB2K8Y7OVE4E1GJZLMGQO",
 				"/Game/TestingMap1/_Generated_/8AZ0L1TBL3JAWSQX5JHCDDR3T",
@@ -177,6 +189,7 @@
 				"/Game/TestingMap1/_Generated_/9C41IEPVW11O7SNXRVUJ69MWN",
 				"/Game/TestingMap1/_Generated_/9I8BX9I6ROP0T1KWZ22PWZ151",
 				"/Game/TestingMap1/_Generated_/9W36847LP3CDHH0CXQOLK7E62",
+				"/Game/TestingMap1/_Generated_/AALH4T6NINUF1BE07B2PC4A2Q",
 				"/Game/TestingMap1/_Generated_/AM6Y10YO2UBBT0ZJHTX0OPEFW",
 				"/Game/TestingMap1/_Generated_/AUQRCTNMO53LWNELXBO7YHAOY",
 				"/Game/TestingMap1/_Generated_/AVVS5I77XI9RGVDHMP8S6SPD2",
@@ -194,6 +207,9 @@
 				"/Game/TestingMap1/_Generated_/DUOLW7AOSS2KV8AES4DSJY0TD",
 				"/Game/TestingMap1/_Generated_/DVPPZ492J08K422EWIJZSEZ5V",
 				"/Game/TestingMap1/_Generated_/DW57U6A1PISXPT9TG7I2TXMXY",
+				"/Game/TestingMap1/_Generated_/E3UAMQ0S4UZ6XB2TI4K7SWP7Q",
+				"/Game/TestingMap1/_Generated_/E719NZAM4FXIV0E9FKI5J8URD",
+				"/Game/TestingMap1/_Generated_/ED6AP5I6EE70MR4BQ7CB11JQ6",
 				"/Game/TestingMap1/_Generated_/EWU683H83XKPI18AKJAOGM8ZK",
 				"/Game/TestingMap1/_Generated_/F2E19CUJXWY9GQU9Y3MHNE8T8"
 			]
@@ -264,6 +280,7 @@
 		{
 			"ShaderMapHash": "288E4F3F101CBB68330FA2861D6C724765564009",
 			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
 				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
 			]
 		},
@@ -289,12 +306,6 @@
 			"ShaderMapHash": "30000A455ABFCDC00C20FF127B2136B3CF53A8E3",
 			"Assets": [
 				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
-			]
-		},
-		{
-			"ShaderMapHash": "1B665D4D7E32FCD38E868608853F395EA0EE85DD",
-			"Assets": [
-				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
 			]
 		},
 		{
@@ -343,6 +354,9 @@
 		{
 			"ShaderMapHash": "B392755A532F9481C6D8AAAD59260F9748CF5859",
 			"Assets": [
+				"/Game/Vefects/Free_Fire/Shared/Materials/MI_VFX_Ashes_01",
+				"/Game/Vefects/Free_Fire/Shared/Materials/MI_VFX_Fire_01",
+				"/Game/Vefects/Free_Fire/Shared/Materials/MI_VFX_Fire_02",
 				"/Game/Vefects/Free_Fire/Shared/Materials/MI_VFX_FireQuad_02"
 			]
 		},
@@ -503,6 +517,7 @@
 		{
 			"ShaderMapHash": "C46D9990A42AEB35811CB8D91C4941304B3D0EC1",
 			"Assets": [
+				"/Engine/EditorLandscapeResources/MaskBrushMaterial",
 				"/Engine/EditorLandscapeResources/MaskBrushMaterial_MaskedRegion"
 			]
 		},

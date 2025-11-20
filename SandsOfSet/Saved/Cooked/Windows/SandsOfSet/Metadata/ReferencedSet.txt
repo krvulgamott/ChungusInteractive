@@ -275,13 +275,11 @@
 /engine/functions/engine_materialfunctions03/math/withinrangefloat2
 /engine/maps/entry
 /engine/maps/entry_builtdata
-/engine/maptemplates/sm_template_map_floor
 /engine/mobileresources/hud/defaultvirtualjoysticks
 /engine/mobileresources/hud/virtualjoystick_background
 /engine/mobileresources/hud/virtualjoystick_thumb
 /engine/openworldtemplate/landscapematerial/m_procgrid
 /engine/openworldtemplate/landscapematerial/mf_procgrid
-/engine/openworldtemplate/landscapematerial/mi_procgrid
 /engine/openworldtemplate/landscapematerial/t_gridchecker_a
 /engine/vreditor/laserpointer/vr_laserpower_01
 /engine/vreditor/snapgrid/snapgridmaterial
@@ -325,11 +323,12 @@
 /game/_generated/owner/box_c708e3c1
 /game/_generated/owner/box_d8a3ed05
 /game/_generated/owner/box_d92815c9
+/game/_generated/owner/box_eb2f10c4
 /game/_generated/owner/box_f8821f20
 /game/_generated/owner/stairs_24715d60
 /game/_generated/owner/stairs_36a6cf48
+/game/_generated/owner/stairs_9549937b
 /game/_generated/owner/stairs_9aebd14c
-/game/_generated/owner/stairs_c0d0f9c1
 /game/actors/b_door2
 /game/actors/b_doorcam
 /game/actors/bp_pedestal
